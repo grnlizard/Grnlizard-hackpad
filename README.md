@@ -13,4 +13,4 @@ and these are the photos of the case and pcb :D
 ![3D_PCB_IN_CASE](assets/3D_PCB_IN_CASE.png)
 ![PCB](assets/pcb.png)
 ![case](assets/hackpad_case.png)
-![Schematic](assets/Schematic.png)
+![Schematic](assets/schematic.png)
