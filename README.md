@@ -10,6 +10,7 @@ as my first time making a hackpad i am not sure if the firmware will work but i 
 and this hackpad was made with my amazing club!!! 
 
 and these are the photos of the case and pcb :D
-
+![3D_PCB_IN_CASE](assets/3D_PCB_IN_CASE.png)
 ![PCB](assets/pcb.png)
 ![case](assets/hackpad_case.png)
+![Schematic](assets/Schematic.png)
